@@ -1,4 +1,7 @@
 # starWars-quotes
+
+![crud quotes app](https://github.com/Mdue17/starWars-quotes/blob/master/crud%20app%20img.jpeg)
+
 A CRUD app built with Node &amp; Express to write , save and recite star wars quotes
 
 ## How It's Made:
